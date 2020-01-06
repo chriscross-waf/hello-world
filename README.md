@@ -1,2 +1,3 @@
 # hello-world
-my very first project
+Dieses ist mein erster Versuch mit GitHub
+also eine klassische Hello Welt Anwendung
